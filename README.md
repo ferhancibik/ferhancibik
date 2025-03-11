@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/736x/9b/3c/60/9b3c6026e398968ca7be71d7f35d3156.jpg)
+[![MasterHead](https://i.pinimg.com/736x/f2/de/f6/f2def675d5cc3ef4685865fc6445d576.jpg)
 <h1 align="center">Hi 👋, I'm Ferhan Çıbık</h1>
 <h3 align="center">Computer Engineering Student in Turkey | Passionate about Technology and Innovation</h3>
 
